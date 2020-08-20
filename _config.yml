@@ -25,7 +25,7 @@ url                      : "https://jaage.github.io/"
 baseurl                  : /excessreturns
 repository               : "Jaage/excessreturns"
 teaser                   : "/Pictures/blogbackground.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/Pictures/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
