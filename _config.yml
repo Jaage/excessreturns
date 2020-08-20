@@ -24,8 +24,8 @@ description              : "A journey into the wacky worlds of quantitative and 
 url                      : "https://jaage.github.io/"
 baseurl                  : /excessreturns
 repository               : "Jaage/excessreturns"
-teaser                   : "C:/Users/Jordan/Pictures/blogbackground.jpg"
-logo                     : "C:/Users/Jordan/Pictures/logo.jpg"
+teaser                   : "assets/images/blogbackground.jpg"
+logo                     : "assets/images/logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
